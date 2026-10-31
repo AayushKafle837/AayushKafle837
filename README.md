@@ -1,6 +1,6 @@
 ### Hi, I'm Aayush 👋
 
-I'm a Bachelor of IT student at QUT in Brisbane (AI and Software Development, graduating 2027). I build web apps and machine learning projects, and I spend a lot of my week helping other students debug their code as a Peer Learning Facilitator and coding instructor.
+I'm a Bachelor of IT student at QUT in Brisbane (AI and Software Development, graduating 2027). I build web apps and machine learning projects, and 
 
 Right now I'm getting deep into **PHP and MVC**, and learning **Symfony** next.
 
@@ -29,7 +29,6 @@ Right now I'm getting deep into **PHP and MVC**, and learning **Symfony** next.
 **AI in my workflow:** I use AI coding assistants like Claude day to day, and I treat their output like a teammate's pull request: read it, test it, and only keep what I can explain.
 
 #### Outside the code
-
-- Peer Learning Facilitator at **STIMulate**, QUT's drop-in help service
-- Instructor at **Code Camp**, teaching kids to code
-- Projects Officer at the **QUT AI and Machine Learning Society**
+- Assistant Analyst, Analytics and AI Capability at QUT (2026–present)
+- Previously: Peer Learning Facilitator at STIMulate, QUT's drop-in help service
+- Previously: Instructor at Code Camp, and Projects Officer at the QUT AI and Machine Learning Society
