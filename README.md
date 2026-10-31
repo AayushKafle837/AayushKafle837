@@ -29,6 +29,6 @@ Right now I'm getting deep into **PHP and MVC**, and learning **Symfony** next.
 **AI in my workflow:** I use AI coding assistants like Claude day to day, and I treat their output like a teammate's pull request: read it, test it, and only keep what I can explain.
 
 #### Outside the code
-- Assistant Analyst, Analytics and AI Capability at QUT (2026–present)
+- Assistant Analyst, Analytics and AI Capability at QUT (2026 – present)
 - Previously: Peer Learning Facilitator at STIMulate, QUT's drop-in help service
 - Previously: Instructor at Code Camp, and Projects Officer at the QUT AI and Machine Learning Society
