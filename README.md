@@ -2,7 +2,7 @@
 
 I'm a Bachelor of IT student at QUT in Brisbane (AI and Software Development, graduating 2027). I build web apps and machine learning projects, and I've spent a lot of time helping other students debug their code as a Peer Learning Facilitator at STIMulate and a coding instructor at Code Camp.
 
-Right now I'm getting deep into learning **C#**, and learning **ASP.NET Core** next.
+Right now I'm sharpening my **C#**, and learning **ASP.NET Core** next.
 
 **Portfolio:** [aayushkafle837.github.io](https://aayushkafle837.github.io) · **LinkedIn:** [aayush-kafle](https://www.linkedin.com/in/aayush-kafle-515a71367) · **Email:** kafleaayush46@gmail.com
 
